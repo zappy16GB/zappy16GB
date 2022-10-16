@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zappy16GB
-- 👀 I’m interested in anything that has to do with computers
-- 🌱 I’m currently learning python and sphinx 
+- 👀 I’m interested in anything that has to do with computers.
+- 🌱 I’m currently learning python and sphinx.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
